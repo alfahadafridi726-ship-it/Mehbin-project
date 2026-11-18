@@ -1,0 +1,45 @@
+# Happy National Princess Day - Princess Mehbin Sultana Edition 👑💖
+
+A royal, interactive web application created for **National Princess Day (November 18)** dedicated to **Mehbin Sultana**, wished with all the love and pride in the world by her brother **Alfahad**.
+
+---
+
+## 🌟 The Magical Journey for Princess Mehbin Sultana
+
+When Mehbin scans the royal QR Code or opens the link, she experiences this heartfelt sequence:
+
+1. **👑 Step 1: Royal Greeting & Happy Princess Day**
+   - Floating 3D golden tiara with sparkle effects, rose petals, and ambient fairy-tale melody chimes.
+   - Grand royal dedication from her brother Alfahad celebrating Mehbin Sultana as the true princess of the home.
+2. **🛡️ Step 2: The Brother's Royal Promise (The Sibling Vow)**
+   - 3D golden royal crest with glowing halo.
+   - The question: *"Mehbin, Do You Accept Your Brother Alfahad as Your Forever Protector & Partner-in-Crime? 🛡️💖"*
+   - **Interactive "YES" Button**: Triggers a celebratory explosion of confetti, fireworks, and royal fanfare banner: *"Alfahad & Mehbin Sultana - Best Sibling Duo Forever!"*
+   - **Playful "No" Button**: Playfully dodges and teases: *"Hey Mehbin, you can't say no to Alfahad! 😜"*, *"Who's gonna buy you treats & chocolates? 🍫"*, *"I'm telling Mom! 😂"*.
+3. **📜 Step 3: Heartwarming Sister Love Quotes & Alfahad's Secret Note**
+   - Handpicked quotes celebrating the rare bond between a sister and her brother.
+   - Interactive sealed envelope with wax heart seal that taps open to reveal Alfahad's private letter to Mehbin.
+4. **🌟 Step 4: 6 Reasons Why Mehbin Sultana is Our Family's Princess**
+   - Interactive royal virtues: Radiant Smile, Caring Heart, Intelligence & Ambition, Infectious Laughter, Grace & Dignity, and Being the Best Sister Ever.
+5. **🎓 Step 5: Official Princess Coronation Certificate**
+   - Certified Proclamation declaring Princess Mehbin Sultana the royal princess of the home, signed by her proud brother Alfahad, with interactive "Tap to Crown" and printable certificate.
+
+---
+
+## 🔲 How to Generate & Share the QR Code for Mehbin
+
+1. Open the website at **`http://localhost:3000`** in your browser.
+2. Click **"Get Scannable QR Gift Card"** in the top bar or hero banner.
+3. You will see the **Royal Princess QR Gift Card**:
+   - High-contrast, scannable QR Code that leads directly to Mehbin's surprise.
+   - Click **"Save QR Gift Card as Image (PNG)"** to download it as an image. Alfahad can send this image to Mehbin on WhatsApp, Instagram, or print it out on paper / greeting card!
+   - When Mehbin points her phone camera at the QR code, the magical experience opens on her screen!
+
+---
+
+## 🚀 Running on Localhost
+
+- **URL**: `http://localhost:3000/`
+- **File**: `index.html`
+- Previous University portal files are safely archived in `adtu_portal/`.
+
